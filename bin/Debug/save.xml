@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data round="9" mode="Defend">
+  <myTeam score="0">
+    <player>
+      <sofifa_id>190014</sofifa_id>
+      <player_url>https://sofifa.com/player/190014/yannis-salibur/20/159586</player_url>
+      <short_name>Y. Salibur</short_name>
+      <long_name>Yannis Salibur</long_name>
+      <age>28</age>
+      <dob>24/01/1991</dob>
+      <height_cm>177</height_cm>
+      <weight_kg>76</weight_kg>
+      <nationality>France</nationality>
+      <club>En Avant de Guingamp</club>
+      <overall>75</overall>
+      <potential>75</potential>
+    </player>
+    <player>
+      <sofifa_id>189169</sofifa_id>
+      <player_url>https://sofifa.com/player/189169/jonathas-de-jesus-mauricio/20/159586</player_url>
+      <short_name>Jonathas</short_name>
+      <long_name>Jonathas de Jesus Maur√≠cio</long_name>
+      <age>30</age>
+      <dob>06/03/1989</dob>
+      <height_cm>190</height_cm>
+      <weight_kg>81</weight_kg>
+      <nationality>Brazil</nationality>
+      <club>Hannover 96</club>
+      <overall>75</overall>
+      <potential>75</potential>
+    </player>
+    <player>
+      <sofifa_id>189207</sofifa_id>
+      <player_url>https://sofifa.com/player/189207/jimmy-durmaz/20/159586</player_url>
+      <short_name>J. Durmaz</short_name>
+      <long_name>Jimmy Durmaz</long_name>
+      <age>30</age>
+      <dob>22/03/1989</dob>
+      <height_cm>180</height_cm>
+      <weight_kg>69</weight_kg>
+      <nationality>Sweden</nationality>
+      <club>Galatasaray SK</club>
+      <overall>75</overall>
+      <potential>75</potential>
+    </player>
+    <player>
+      <sofifa_id>189221</sofifa_id>
+      <player_url>https://sofifa.com/player/189221/joao-miguel-coimbra-aurelio/20/159586</player_url>
+      <short_name>Jo√£o Aur√©lio</short_name>
+      <long_name>Jo√£o Miguel Coimbra Aur√©lio</long_name>
+      <age>30</age>
+      <dob>17/08/1988</dob>
+      <height_cm>182</height_cm>
+      <weight_kg>74</weight_kg>
+      <nationality>Portugal</nationality>
+      <club>Moreirense FC</club>
+      <overall>75</overall>
+      <potential>75</potential>
+    </player>
+    <player>
+      <sofifa_id>189390</sofifa_id>
+      <player_url>https://sofifa.com/player/189390/bastian-oczipka/20/159586</player_url>
+      <short_name>B. Oczipka</short_name>
+      <long_name>Bastian Oczipka</long_name>
+      <age>30</age>
+      <dob>12/01/1989</dob>
+      <height_cm>185</height_cm>
+      <weight_kg>85</weight_kg>
+      <nationality>Germany</nationality>
+      <club>FC Schalke 04</club>
+      <overall>75</overall>
+      <potential>75</potential>
+    </player>
+    <player>
+      <sofifa_id>189446</sofifa_id>
+      <player_url>https://sofifa.com/player/189446/junior-stanislas/20/159586</player_url>
+      <short_name>J. Stanislas</short_name>
+      <long_name>Junior Stanislas</long_name>
+      <age>29</age>
+      <dob>26/11/1989</dob>
+      <height_cm>183</height_cm>
+      <weight_kg>76</weight_kg>
+      <nationality>England</nationality>
+      <club>Bournemouth</club>
+      <overall>75</overall>
+      <potential>75</potential>
+    </player>
+    <player>
+      <sofifa_id>189484</sofifa_id>
+      <player_url>https://sofifa.com/player/189484/davide-santon/20/159586</player_url>
+      <short_name>D. Santon</short_name>
+      <long_name>Davide Santon</long_name>
+      <age>28</age>
+      <dob>02/01/1991</dob>
+      <height_cm>187</height_cm>
+      <weight_kg>77</weight_kg>
+      <nationality>Italy</nationality>
+      <club>Roma</club>
+      <overall>75</overall>
+      <potential>75</potential>
+    </player>
+    <player>
+      <sofifa_id>189757</sofifa_id>
+      <player_url>https://sofifa.com/player/189757/aleksandar-prijovic/20/159586</player_url>
+      <short_name>A. Prijoviƒá</short_name>
+      <long_name>Aleksandar Prijoviƒá</long_name>
+      <age>29</age>
+      <dob>21/04/1990</dob>
+      <height_cm>191</height_cm>
+      <weight_kg>88</weight_kg>
+      <nationality>Serbia</nationality>
+      <club>Al Ittihad</club>
+      <overall>75</overall>
+      <potential>75</potential>
+    </player>
+    <player>
+      <sofifa_id>178311</sofifa_id>
+      <player_url>https://sofifa.com/player/178311/eder-citadin-martins/20/159586</player_url>
+      <short_name>√âder</short_name>
+      <long_name>√âder Citadin Martins</long_name>
+      <age>32</age>
+      <dob>15/11/1986</dob>
+      <height_cm>179</height_cm>
+      <weight_kg>72</weight_kg>
+      <nationality>Italy</nationality>
+      <club>Jiangsu Suning FC</club>
+      <overall>79</overall>
+      <potential>79</potential>
+    </player>
+    <player>
+      <sofifa_id>189795</sofifa_id>
+      <player_url>https://sofifa.com/player/189795/eder-macedo-lopes/20/159586</player_url>
+      <short_name>√âder</short_name>
+      <long_name>√âderzito Ant√≥nio Macedo Lopes</long_name>
+      <age>31</age>
+      <dob>22/12/1987</dob>
+      <height_cm>190</height_cm>
+      <weight_kg>81</weight_kg>
+      <nationality>Portugal</nationality>
+      <club>Lokomotiv Moscow</club>
+      <overall>75</overall>
+      <potential>75</potential>
+    </player>
+  </myTeam>
+  <enemyTeam score="9">
+    <player>
+      <sofifa_id>158023</sofifa_id>
+      <player_url>https://sofifa.com/player/158023/lionel-messi/20/159586</player_url>
+      <short_name>T. Arslan</short_name>
+      <long_name>Tolgay Ali Arslan</long_name>
+      <age>32</age>
+      <dob>24/06/1987</dob>
+      <height_cm>170</height_cm>
+      <weight_kg>72</weight_kg>
+      <nationality>Argentina</nationality>
+      <club>FC Barcelona</club>
+      <overall>94</overall>
+      <potential>94</potential>
+    </player>
+    <player>
+      <sofifa_id>20801</sofifa_id>
+      <player_url>https://sofifa.com/player/20801/c-ronaldo-dos-santos-aveiro/20/159586</player_url>
+      <short_name>Y. Salibur</short_name>
+      <long_name>Yannis Salibur</long_name>
+      <age>34</age>
+      <dob>05/02/1985</dob>
+      <height_cm>187</height_cm>
+      <weight_kg>83</weight_kg>
+      <nationality>Portugal</nationality>
+      <club>Juventus</club>
+      <overall>93</overall>
+      <potential>93</potential>
+    </player>
+    <player>
+      <sofifa_id>190871</sofifa_id>
+      <player_url>https://sofifa.com/player/190871/neymar-da-silva-santos-jr/20/159586</player_url>
+      <short_name>Jonathas</short_name>
+      <long_name>Jonathas de Jesus Maur√≠cio</long_name>
+      <age>27</age>
+      <dob>05/02/1992</dob>
+      <height_cm>175</height_cm>
+      <weight_kg>68</weight_kg>
+      <nationality>Brazil</nationality>
+      <club>Paris Saint-Germain</club>
+      <overall>92</overall>
+      <potential>92</potential>
+    </player>
+    <player>
+      <sofifa_id>200389</sofifa_id>
+      <player_url>https://sofifa.com/player/200389/jan-oblak/20/159586</player_url>
+      <short_name>J. Durmaz</short_name>
+      <long_name>Jimmy Durmaz</long_name>
+      <age>26</age>
+      <dob>07/01/1993</dob>
+      <height_cm>188</height_cm>
+      <weight_kg>87</weight_kg>
+      <nationality>Slovenia</nationality>
+      <club>Atl√©tico Madrid</club>
+      <overall>91</overall>
+      <potential>93</potential>
+    </player>
+    <player>
+      <sofifa_id>183277</sofifa_id>
+      <player_url>https://sofifa.com/player/183277/eden-hazard/20/159586</player_url>
+      <short_name>Jo√£o Aur√©lio</short_name>
+      <long_name>Jo√£o Miguel Coimbra Aur√©lio</long_name>
+      <age>28</age>
+      <dob>07/01/1991</dob>
+      <height_cm>175</height_cm>
+      <weight_kg>74</weight_kg>
+      <nationality>Belgium</nationality>
+      <club>Real Madrid</club>
+      <overall>91</overall>
+      <potential>91</potential>
+    </player>
+    <player>
+      <sofifa_id>192985</sofifa_id>
+      <player_url>https://sofifa.com/player/192985/kevin-de-bruyne/20/159586</player_url>
+      <short_name>B. Oczipka</short_name>
+      <long_name>Bastian Oczipka</long_name>
+      <age>28</age>
+      <dob>28/06/1991</dob>
+      <height_cm>181</height_cm>
+      <weight_kg>70</weight_kg>
+      <nationality>Belgium</nationality>
+      <club>Manchester City</club>
+      <overall>91</overall>
+      <potential>91</potential>
+    </player>
+    <player>
+      <sofifa_id>192448</sofifa_id>
+      <player_url>https://sofifa.com/player/192448/marc-andre-ter-stegen/20/159586</player_url>
+      <short_name>J. Stanislas</short_name>
+      <long_name>Junior Stanislas</long_name>
+      <age>27</age>
+      <dob>30/04/1992</dob>
+      <height_cm>187</height_cm>
+      <weight_kg>85</weight_kg>
+      <nationality>Germany</nationality>
+      <club>FC Barcelona</club>
+      <overall>90</overall>
+      <potential>93</potential>
+    </player>
+    <player>
+      <sofifa_id>203376</sofifa_id>
+      <player_url>https://sofifa.com/player/203376/virgil-van-dijk/20/159586</player_url>
+      <short_name>D. Santon</short_name>
+      <long_name>Davide Santon</long_name>
+      <age>27</age>
+      <dob>08/07/1991</dob>
+      <height_cm>193</height_cm>
+      <weight_kg>92</weight_kg>
+      <nationality>Netherlands</nationality>
+      <club>Liverpool</club>
+      <overall>90</overall>
+      <potential>91</potential>
+    </player>
+    <player>
+      <sofifa_id>177003</sofifa_id>
+      <player_url>https://sofifa.com/player/177003/luka-modric/20/159586</player_url>
+      <short_name>A. Prijoviƒá</short_name>
+      <long_name>Aleksandar Prijoviƒá</long_name>
+      <age>33</age>
+      <dob>09/09/1985</dob>
+      <height_cm>172</height_cm>
+      <weight_kg>66</weight_kg>
+      <nationality>Croatia</nationality>
+      <club>Real Madrid</club>
+      <overall>90</overall>
+      <potential>90</potential>
+    </player>
+    <player>
+      <sofifa_id>209331</sofifa_id>
+      <player_url>https://sofifa.com/player/209331/mohamed-salah/20/159586</player_url>
+      <short_name>√âder</short_name>
+      <long_name>√âder Citadin Martins</long_name>
+      <age>27</age>
+      <dob>15/06/1992</dob>
+      <height_cm>175</height_cm>
+      <weight_kg>71</weight_kg>
+      <nationality>Egypt</nationality>
+      <club>Liverpool</club>
+      <overall>90</overall>
+      <potential>90</potential>
+    </player>
+    <player>
+      <sofifa_id>231747</sofifa_id>
+      <player_url>https://sofifa.com/player/231747/kylian-mbappe/20/159586</player_url>
+      <short_name>√âder</short_name>
+      <long_name>√âderzito Ant√≥nio Macedo Lopes</long_name>
+      <age>20</age>
+      <dob>20/12/1998</dob>
+      <height_cm>178</height_cm>
+      <weight_kg>73</weight_kg>
+      <nationality>France</nationality>
+      <club>Paris Saint-Germain</club>
+      <overall>89</overall>
+      <potential>95</potential>
+    </player>
+  </enemyTeam>
+</data>

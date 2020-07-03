@@ -1,0 +1,16 @@
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\bin\Debug\FIFA2020.exe.config
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\bin\Debug\FIFA2020.exe
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\bin\Debug\FIFA2020.pdb
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\bin\Debug\FifaLib.dll
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\bin\Debug\FifaLib.pdb
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.csprojAssemblyReference.cache
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.EditDataForm.resources
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.Form1.resources
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.NewGameForm.resources
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.PlayProcess.resources
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.Properties.Resources.resources
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.csproj.GenerateResource.cache
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.csproj.CoreCompileInputs.cache
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.csproj.CopyComplete
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.exe
+C:\Users\Нуржигит\Desktop\hse\FIFA2020_Last\obj\Debug\FIFA2020.pdb

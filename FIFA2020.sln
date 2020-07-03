@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIFA2020", "FIFA2020.csproj", "{453B3AB2-F3FB-4893-85AE-7A8DB481B4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifaLib", "FifaLib\FifaLib.csproj", "{66087E7D-9773-43A0-9C3B-3DAE93E2F71F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{453B3AB2-F3FB-4893-85AE-7A8DB481B4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453B3AB2-F3FB-4893-85AE-7A8DB481B4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453B3AB2-F3FB-4893-85AE-7A8DB481B4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453B3AB2-F3FB-4893-85AE-7A8DB481B4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66087E7D-9773-43A0-9C3B-3DAE93E2F71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66087E7D-9773-43A0-9C3B-3DAE93E2F71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66087E7D-9773-43A0-9C3B-3DAE93E2F71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66087E7D-9773-43A0-9C3B-3DAE93E2F71F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6473DF80-79A7-45B6-BBE0-F0CF87811CFF}
+	EndGlobalSection
+EndGlobal
